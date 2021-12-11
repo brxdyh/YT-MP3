@@ -1,0 +1,9 @@
+future
+youtube_dl
+python-cfonts
+
+!!!ALSO DOWNLOAD
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+AND PLACE THEM IN THE FOLDER WITH THE SCIPT!!!
